@@ -1,4 +1,5 @@
 // factorial using recursive functions
+#include<stdio.h>
 int factorial(int);
 int main()
 {
