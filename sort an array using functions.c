@@ -1,4 +1,5 @@
 // sort an array using functions
+#include<stdio.h>
 int sort(int array[], int);
 int main()
 {
