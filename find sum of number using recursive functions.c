@@ -1,4 +1,5 @@
 // find sum of natural elements using recursive functions
+#include<stdio.h>
 int sum_nat(int);
 int main()
 {
