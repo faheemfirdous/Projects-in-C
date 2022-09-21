@@ -1,4 +1,5 @@
 // sum of fibonacci series using recursive functions
+#include<stdio.h>
 int fibo(int);
 int main()
 {
